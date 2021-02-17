@@ -1,5 +1,7 @@
 # codacy-code-project
 
+Every section is going to have its own branch. Main shouldn't be touched.
+
 - General Styles -> Yeliana
 - Section 1: Header & Hero -> Cristian & Gonzalo & Franco
 - Section 2: -> Santiago
