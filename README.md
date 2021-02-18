@@ -1,6 +1,6 @@
 # codacy-code-project
 
-Every section is going to have its own branch. Main shouldn't be touched.
+Every section is going to have its own branch. Main branch shouldn't be touched.
 This project is going to be mobile first.
  
 ### Width-breakpoints
