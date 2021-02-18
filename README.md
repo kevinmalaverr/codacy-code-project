@@ -4,12 +4,13 @@ Every section is going to have its own branch. Main shouldn't be touched.
 This project is going to be mobile first.
  
 ### Width-breakpoints
-(Recommended to use max-width)
+(Recommended to use max-width and min-width)
 
-- 320px
-- 475px
+- 576px (min-width 320px)
 - 768px
-- 1024px
+- 992px
+- 1200px
+- 1400px
 
 ### Section assignation
 - General Styles -> Yeliana
