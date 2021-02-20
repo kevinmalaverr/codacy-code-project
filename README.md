@@ -20,5 +20,5 @@ This project is going to be mobile first.
 - Section 4: -> Julián & Aleja
 - Section 5: -> Kevin
 - Section 6: Carousel -> Rafa 
-- Section 7: -> 
+- Section 7: -> Gonzalo
 - Section 8: Footer -> 
